@@ -1,4 +1,4 @@
-## Hey!
+## Hello!
 
 I'm an *AI/ML and computational neuroscience* postdoc at Stanford University, working on AI tools that can help us understand the :brain:.
 
