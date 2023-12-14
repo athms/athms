@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm an *AI/ML and computational neuroscience* postdoc at Stanford University, working in AI and its application to computational neuroscience research.
+I'm a postdoc at Stanford University working in AI/ML and its application to computational neuroscience.
 
 I'm always interested in collaborating on cool projects surrounding large language/vision models, long sequences, and/or the brain.
 
